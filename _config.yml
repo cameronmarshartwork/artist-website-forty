@@ -3,6 +3,10 @@ title: Cameron Marsh Artwork
 email: cameronmarshartwork@gmail.com
 description: An art website description
 baseurl: "/" # the subpath of your site, e.g. /blog
+title: Cameron Marsh Artwork
+email: cameronmarshartwork@gmail.com
+description: An art website description
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Cameron Marsh
 
@@ -16,7 +20,12 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub:
+  GitHub:
   GitLab:
+  Google-Plus: 
+  Instagram: https://instagram.com/cmarshart
+  LinkedIn: 
+  Twitter: 
   Google-Plus: 
   Instagram: https://instagram.com/cmarshart
   LinkedIn: 
