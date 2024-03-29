@@ -1,7 +1,7 @@
 # site settings
 title: Cameron Marsh Fine Art
 email: cameronmarshartwork@gmail.com
-description: An art website description
+description: Cameron Marsh is an American artist painting and etching figures, still lifes, and landscapes
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Cameron Marsh

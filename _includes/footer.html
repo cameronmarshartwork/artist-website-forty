@@ -1,32 +1,12 @@
 <!-- Contact -->
 <section>
 	<div class="inner">
-		<!-- <section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
-		</section> -->
-			<div class="contact-method">
-				<span class="icon alt fa-envelope"></span>
-				<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-			</div>
-
 			<ul class="icons">
+					<li>
+						<a href="mailto:{{ site.email }}" class="icon alt fa-envelope" target="_blank" rel="noopener noreferrer" aria-label="envelope">
+							<span class="label">Email</span>
+						</a>
+					</li>
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
 						<li>
