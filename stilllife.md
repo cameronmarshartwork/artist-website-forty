@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
+layout: page 
+title: Still Life
 image: assets/images/IMG_3423.JPG
 nav-menu: true
 ---

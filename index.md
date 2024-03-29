@@ -1,11 +1,7 @@
 ---
 layout: home
 title: Home
-<<<<<<< HEAD
-landing-title: 'Cameron Marsh'
-=======
-landing-title: 'Cameron Marsh Artwork'
->>>>>>> refs/remotes/origin/master
+landing-title: 'Cameron Marsh Fine Art'
 description: null
 image: null
 author: null

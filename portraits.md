@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Portraits
+image: assets/images/IMG_3466.JPG
 nav-menu: true
 ---
 
